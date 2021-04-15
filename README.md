@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="IMG_20210109_122338.jpg" width="260" height="200" /> </h2> 
+<h2> Hi, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="IMG_20210109_122338.jpg" width="260" height="190" /> </h2> 
 
 <a href="mailto:kumayu@iitk.ac.in">
   <img align="left" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
