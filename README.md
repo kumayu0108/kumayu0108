@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/kumayu0108/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
+</br>
 
 <p><em>
 B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
