@@ -41,7 +41,7 @@ const Indian = {
   Utilities: [LATEX, Git, Autodesk Inventor, Numpy, Pandas, Matplotlib],
   Interests: ["Football", "Books", "Anime!"],
   Life Philosophy: ["I am someone who loves challenges in Life! I like working hard for my goals.", 
-  "I love the saying, "Unrealised Potential is An Opportunity Wasted!""]
+  "I love the saying" : "Unrealised Potential is An Opportunity Wasted!"]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
