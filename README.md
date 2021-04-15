@@ -20,7 +20,7 @@
 <em>
 B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em>
-
+</br>
 
  
 
