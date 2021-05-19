@@ -1,6 +1,6 @@
-<h2> Hi, I'm Ayush Kumar 
+<h1> Hi, I'm Ayush Kumar 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="IMG_20210109_122338.jpg" width="260" height="190" />  -->
-</h2>
+</h1>
 
 <a href="mailto:kumayu@iitk.ac.in">
   <img style="padding-right:1em; padding-top:0.5em" align="left" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
@@ -20,12 +20,12 @@
 <br><br>
 
 <p><em>
-B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 **Languages and Tools:**  
 
-<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg"> <img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img style="align:left; padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> &nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg"> &nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <hr>
 
