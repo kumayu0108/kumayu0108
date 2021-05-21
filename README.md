@@ -57,30 +57,9 @@ const Indian = {
 
 
 <!-- [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula)](https://github.com/kumayu0108)&nbsp;&nbsp;&nbsp; -->
-<img align="left" style="padding-top=1cm;" src="https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula"/>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumayu0108&show_icons=true&theme=blue)](https://github.com/kumayu0108) -->
 
-<img align="right" style="padding-top=1cm;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumayu0108&show_icons=true&theme=blue"/>
-
-<!-- <img src="https://raw.githubusercontent.com/gurbaaz27/gurbaaz27/master/assets/banner_opt.png" alt="WordCloud" width="100%"> -->
-
-
-<!-- <p align="center">
-<a href="https://gurbaaz27.github.io" >
-<img src="https://img.shields.io/badge/-Visit_my_Website-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://gurbaaz27.github.io"></img>
-</a>
-<a href="mailto:gurbaazsn123@gmail.com">
-<img src="https://img.shields.io/badge/-Contact_Me-BC4E48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurbaazsn123@gmail.com" />
-</a>
-<a href="https://facebook.com/gurbaaz.nandra">
-<img src="https://img.shields.io/badge/-Facebook-116BBC?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/gurbaaz.nandra" /> 
-</a>
-<a href="https://www.linkedin.com/in/gurbaaz-singh-nandra-189813190/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurbaaz-singh-nandra-189813190/"  />
-</a>
-<a href="http://github.com/gurbaaz27">
-<img src="https://img.shields.io/github/followers/gurbaaz27?label=follow&style=social" />
-</a> 
-</p>
-
---- -->
+<!-- <img align="right" style="padding-top=1cm;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumayu0108&show_icons=true&theme=blue"/> -->
