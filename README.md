@@ -4,25 +4,10 @@
 
 <p><em>
 B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
 </em></p>
 
-<img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
-<a href="mailto:kumayu@iitk.ac.in">
-  <img style="padding-right:1em; padding-top:0.5em" align="left" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
-  
-</a>
 
-<a href="https://www.facebook.com/HELLbender01/">
-  <img style="padding-right:1em; padding-top:0.5em" align="left" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-  
-</a>
-<a href="https://twitter.com/kumayu_01">
-  <img style="padding-right:1em; padding-top:0.5em" align="left" alt="Ayush Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kumayu0108/">
-  <img style="padding-right:1em; padding-top:0.5em" align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
 
 
 
@@ -34,7 +19,7 @@ B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp
 ### **Languages and Tools:**  
 
 <img style="align:left; padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> &nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg"> &nbsp;&nbsp;&nbsp;<img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> &nbsp;&nbsp;&nbsp; <img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/html5.svg"> &nbsp;&nbsp;&nbsp; <img style="padding-right:1em; padding-top:0.5em" height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png">
-
+<br>
 <hr>
 
 ## A little about me 🚀
@@ -53,6 +38,22 @@ const Indian = {
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<p align="center">
+  <a href="mailto:kumayu@iitk.ac.in">
+    <img style="padding-right:1em; padding-top:0.5em" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/HELLbender01/">
+    <img style="padding-right:1em; padding-top:0.5em" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/kumayu_01">
+    <img style="padding-right:1em; padding-top:0.5em" alt="Ayush Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kumayu0108/">
+    <img style="padding-right:1em; padding-top:0.5em" lt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</p>
+<br>
 
 
 <!-- [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula)](https://github.com/kumayu0108)&nbsp;&nbsp;&nbsp; -->
