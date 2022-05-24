@@ -44,7 +44,7 @@ const Indian = {
     <img style="padding-right:1em; padding-top:0.5em" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/HELLbender01/">
-    <img style="padding-right:1em; padding-top:0.5em" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+    <img style="padding-right:1em; padding-top:0.5em" alt="Ayush's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/kumayu_01">
     <img style="padding-right:1em; padding-top:0.5em" alt="Ayush Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
