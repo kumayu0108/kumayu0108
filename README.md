@@ -4,7 +4,7 @@
 
 <p><em>
 B.Tech. Final Year Undergraduate in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
+<img align="right" style="padding-top=1cm;" src="https://novatorem.vercel.app/api/spotify"/>
 </em></p>
 
 
