@@ -58,7 +58,7 @@ const Indian = {
 
 <!-- [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula)](https://github.com/kumayu0108)&nbsp;&nbsp;&nbsp; -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kumayu0108&count_private=true&show_icons=true&theme=dracula"/>
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumayu0108&show_icons=true&theme=blue)](https://github.com/kumayu0108) -->
 
