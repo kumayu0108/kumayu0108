@@ -29,7 +29,7 @@ B.Tech. Final Year Undergraduate in CSE, <a href="https://www.iitk.ac.in/">IIT K
 ```javascript
 const Indian = {
   pronouns: "He" | "His",
-  code: [C++, C, Verilog, MIPS, Python, Java],
+  code: [C++, C, Rust (Ongoing), Verilog, MIPS, Python, Java],
   Frameworks: [PyTorch, TensorFlow],
   Utilities: [LATEX, Git, Autodesk Inventor, Numpy, Pandas, Matplotlib],
   Interests: ["Football", "Books", "Anime!"],
